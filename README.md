@@ -1,2 +1,2 @@
 # LGMVIP--DataScience
-For all the Tasks I will perform under the guidance of letsgrowMore
+For all the Tasks I performed under the guidance of letsgrowMore
